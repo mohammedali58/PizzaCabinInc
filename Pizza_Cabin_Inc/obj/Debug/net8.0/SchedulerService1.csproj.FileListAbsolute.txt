@@ -1,0 +1,4 @@
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\Pizza_Cabin_Inc\obj\Debug\net8.0\SchedulerService1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\Pizza_Cabin_Inc\obj\Debug\net8.0\SchedulerService1.AssemblyInfoInputs.cache
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\Pizza_Cabin_Inc\obj\Debug\net8.0\SchedulerService1.AssemblyInfo.cs
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\Pizza_Cabin_Inc\obj\Debug\net8.0\SchedulerService1.csproj.CoreCompileInputs.cache

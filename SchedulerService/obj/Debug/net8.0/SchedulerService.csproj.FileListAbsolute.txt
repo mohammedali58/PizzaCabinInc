@@ -1,0 +1,11 @@
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\bin\Debug\net8.0\SchedulerService.deps.json
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\bin\Debug\net8.0\SchedulerService.dll
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\bin\Debug\net8.0\SchedulerService.pdb
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\obj\Debug\net8.0\SchedulerService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\obj\Debug\net8.0\SchedulerService.AssemblyInfoInputs.cache
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\obj\Debug\net8.0\SchedulerService.AssemblyInfo.cs
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\obj\Debug\net8.0\SchedulerService.csproj.CoreCompileInputs.cache
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\obj\Debug\net8.0\SchedulerService.dll
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\obj\Debug\net8.0\refint\SchedulerService.dll
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\obj\Debug\net8.0\SchedulerService.pdb
+C:\Users\MohamedAbdelaziz\Downloads\Pizza\Pizza\SchedulerService\obj\Debug\net8.0\ref\SchedulerService.dll
